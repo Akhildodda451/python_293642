@@ -49,7 +49,7 @@ The user needs to enter a number by guess, if it is wrong then the system genera
   
   
 ## About the GUESSING_GAME GAME
-  •The number guessing game is all about guessing a number which was generated from random mdoule.
+  •The number guessing game is all about guessing a number which was generated from random module.
   
   •Here the user need to enter his/her name before starting the game, after that the user need to select any one of the options i.e., play game, reset settings, get persnol        best or exit.
     
