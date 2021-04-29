@@ -22,11 +22,11 @@ It is a game in which user needs to guess a number within a given range when the
  This games are also played in parties and also in schools to test their skills.This game can be played both for fun and also to improve mathematical skills. And also
  this game is usually played by everyone who loves trail and error and also needs to build up their analytical skills
 ## Who
-This gave are played by children, youth and also adults irrespective of their ages in their free time.The person who are interested in games and also want to increase there reasoning skills plays this game usually.
+This game are played by children, youth and also adults irrespective of their ages in their free time.The person who are interested in games and also want to increase there reasoning skills plays this game usually.
 ## Where
 This game can be played both online and offline but here we designed this game online even a single person can play this game without a second person.If a person needs to play offline then he needs second person who gives clues but here the system generates the clues so it will be best for people who are alone
 ## How
-The user needs to enter a number by guess, if it is wrong then the system generates a clue such as sum of 2 digits etc the user must find with the clue untill the correct guess the system generates clues and score will be reduced for every clue
+The user needs to enter a number by guess, if it is wrong then the system gives a the user must find with the clue untill the correct guess the system generates clues and score will be reduced for every clue
 ## SWOT
 ![SWOT analysis image](https://user-images.githubusercontent.com/80577252/116389524-a8e3c100-a83a-11eb-84c7-a2bc76eeb9a4.png)
   
