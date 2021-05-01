@@ -8,6 +8,5 @@ HLR3|Changing the game settings|Success
 # Low Level test plan
 Test_id| Description |output
 -------|-------------|------
-LLR1|Input shouldn't be string|Pass
-LLR2|Getting persnol best|Success
-LLR3|Updating number of attempts|Pass
+LLR1|Getting persnol best|Success
+LLR2|Updating number of attempts|Pass
