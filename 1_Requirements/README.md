@@ -54,6 +54,7 @@ The user needs to enter a number by guess, if it is wrong then the system gives 
   •Here the user need to enter his/her name before starting the game, after that the user need to select any one of the options i.e., play game, reset settings, get persnol        best or exit.
     
   •If the user wish to play the game, the user need to enter a random number if it's correct then no.of attempts taken will get displayed else the user continues to enter a        value.
+
   •If the user wish to change the settings, he/she needs to enter the lower and upper bound and play the game.
 ## Advantages
    • It's fast and accurate.
